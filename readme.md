@@ -1,4 +1,4 @@
-# Laboration 1 CMS, wordpress och PHP
+# Laboration 1 CMS, wordpress och PHP Albin Lundmark
 
 Det här projektet har jag fått använda mig av de kunskaper som jag fått lära mig
 under kursen CMS i min utbildning på ITHS i Stockholm.
