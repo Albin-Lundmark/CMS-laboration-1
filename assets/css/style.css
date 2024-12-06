@@ -1,0 +1,12 @@
+/*
+Theme Name: Albins labb1 tema
+Author: Albin Lundmark
+Author URI:
+Description: Det här temat är till för att användas under min 1a laboration i kursen CMS på IT-Högskolan.
+Version: 1.0
+Text Domain: albinslabb1tema
+*/
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
